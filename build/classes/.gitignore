@@ -1,0 +1,8 @@
+/applicationContext.xml
+/com/
+/conn.properties
+/conn_mysql.properties
+/core/
+/hibernate.properties
+/log4j.properties
+/test/
